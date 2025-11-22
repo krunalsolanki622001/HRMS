@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7b5169f-5889-41e2-88f3-5828e4612f7f": {
+      "ProjectGuid": "d7b5169f-5889-41e2-88f3-5828e4612f7f",
+      "DisplayName": "HRMS.Core",
+      "ColorIndex": 0
+    },
+    "9a94275b-af9c-46d5-86d0-fb52af545ba5": {
+      "ProjectGuid": "9a94275b-af9c-46d5-86d0-fb52af545ba5",
+      "DisplayName": "HRMS.Infrastructure",
+      "ColorIndex": 1
+    },
+    "1df0cade-0755-4984-b2d2-157dd56f2e9b": {
+      "ProjectGuid": "1df0cade-0755-4984-b2d2-157dd56f2e9b",
+      "DisplayName": "HRMS.Api",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,12 @@
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\bin\Debug\net6.0\HRMS.Core.deps.json
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\bin\Debug\net6.0\HRMS.Core.dll
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\bin\Debug\net6.0\ref\HRMS.Core.dll
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\bin\Debug\net6.0\HRMS.Core.pdb
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.csproj.AssemblyReference.cache
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.AssemblyInfoInputs.cache
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.AssemblyInfo.cs
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.dll
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\ref\HRMS.Core.dll
+C:\Users\NEEL\Downloads\KRUNALDOCS\HRMS\HRMS.Core\obj\Debug\net6.0\HRMS.Core.pdb
